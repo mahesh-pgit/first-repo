@@ -9,12 +9,12 @@ import './App.css';
 function App() {
   return (
     <div>
-      <Nav/>
+      <Nav />
       <Promo />
-      <Intro1/>
-      <Intro2/>
-      <Intro3/>
-      <Footer/>
+      <Intro1 />
+      <Intro2 />
+      <Intro3 />
+      <Footer />
     </div>
   );
 }
