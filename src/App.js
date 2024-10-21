@@ -2,11 +2,13 @@ import Nav from "./components/Nav";
 import Promo from "./components/Promo";
 import Intro from "./components/Intro";
 import Footer from "./components/Footer";
+import ModeToggler from "./components/ModeToggler";
 import "./App.css";
 
 function App() {
 	return (
 		<div>
+			<ModeToggler />
 			<Nav />
 			<Promo />
 			<Intro
